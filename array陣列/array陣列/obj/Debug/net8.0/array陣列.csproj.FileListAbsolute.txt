@@ -1,0 +1,14 @@
+C:\Users\mn223\Desktop\C#\array陣列\array陣列\bin\Debug\net8.0\array陣列.exe
+C:\Users\mn223\Desktop\C#\array陣列\array陣列\bin\Debug\net8.0\array陣列.deps.json
+C:\Users\mn223\Desktop\C#\array陣列\array陣列\bin\Debug\net8.0\array陣列.runtimeconfig.json
+C:\Users\mn223\Desktop\C#\array陣列\array陣列\bin\Debug\net8.0\array陣列.dll
+C:\Users\mn223\Desktop\C#\array陣列\array陣列\bin\Debug\net8.0\array陣列.pdb
+C:\Users\mn223\Desktop\C#\array陣列\array陣列\obj\Debug\net8.0\array陣列.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mn223\Desktop\C#\array陣列\array陣列\obj\Debug\net8.0\array陣列.AssemblyInfoInputs.cache
+C:\Users\mn223\Desktop\C#\array陣列\array陣列\obj\Debug\net8.0\array陣列.AssemblyInfo.cs
+C:\Users\mn223\Desktop\C#\array陣列\array陣列\obj\Debug\net8.0\array陣列.csproj.CoreCompileInputs.cache
+C:\Users\mn223\Desktop\C#\array陣列\array陣列\obj\Debug\net8.0\array陣列.dll
+C:\Users\mn223\Desktop\C#\array陣列\array陣列\obj\Debug\net8.0\refint\array陣列.dll
+C:\Users\mn223\Desktop\C#\array陣列\array陣列\obj\Debug\net8.0\array陣列.pdb
+C:\Users\mn223\Desktop\C#\array陣列\array陣列\obj\Debug\net8.0\array陣列.genruntimeconfig.cache
+C:\Users\mn223\Desktop\C#\array陣列\array陣列\obj\Debug\net8.0\ref\array陣列.dll

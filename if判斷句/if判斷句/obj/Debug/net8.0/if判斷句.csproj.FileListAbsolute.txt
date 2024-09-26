@@ -1,0 +1,14 @@
+C:\Users\mn223\Desktop\C#\if判斷句\if判斷句\bin\Debug\net8.0\if判斷句.exe
+C:\Users\mn223\Desktop\C#\if判斷句\if判斷句\bin\Debug\net8.0\if判斷句.deps.json
+C:\Users\mn223\Desktop\C#\if判斷句\if判斷句\bin\Debug\net8.0\if判斷句.runtimeconfig.json
+C:\Users\mn223\Desktop\C#\if判斷句\if判斷句\bin\Debug\net8.0\if判斷句.dll
+C:\Users\mn223\Desktop\C#\if判斷句\if判斷句\bin\Debug\net8.0\if判斷句.pdb
+C:\Users\mn223\Desktop\C#\if判斷句\if判斷句\obj\Debug\net8.0\if判斷句.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mn223\Desktop\C#\if判斷句\if判斷句\obj\Debug\net8.0\if判斷句.AssemblyInfoInputs.cache
+C:\Users\mn223\Desktop\C#\if判斷句\if判斷句\obj\Debug\net8.0\if判斷句.AssemblyInfo.cs
+C:\Users\mn223\Desktop\C#\if判斷句\if判斷句\obj\Debug\net8.0\if判斷句.csproj.CoreCompileInputs.cache
+C:\Users\mn223\Desktop\C#\if判斷句\if判斷句\obj\Debug\net8.0\if判斷句.dll
+C:\Users\mn223\Desktop\C#\if判斷句\if判斷句\obj\Debug\net8.0\refint\if判斷句.dll
+C:\Users\mn223\Desktop\C#\if判斷句\if判斷句\obj\Debug\net8.0\if判斷句.pdb
+C:\Users\mn223\Desktop\C#\if判斷句\if判斷句\obj\Debug\net8.0\if判斷句.genruntimeconfig.cache
+C:\Users\mn223\Desktop\C#\if判斷句\if判斷句\obj\Debug\net8.0\ref\if判斷句.dll
