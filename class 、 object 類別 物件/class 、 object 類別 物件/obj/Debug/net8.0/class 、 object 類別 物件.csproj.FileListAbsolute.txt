@@ -1,0 +1,14 @@
+C:\Users\mn223\Desktop\C#\class 、 object 類別 物件\class 、 object 類別 物件\obj\Debug\net8.0\class 、 object 類別 物件.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mn223\Desktop\C#\class 、 object 類別 物件\class 、 object 類別 物件\obj\Debug\net8.0\class 、 object 類別 物件.AssemblyInfoInputs.cache
+C:\Users\mn223\Desktop\C#\class 、 object 類別 物件\class 、 object 類別 物件\obj\Debug\net8.0\class 、 object 類別 物件.AssemblyInfo.cs
+C:\Users\mn223\Desktop\C#\class 、 object 類別 物件\class 、 object 類別 物件\obj\Debug\net8.0\class 、 object 類別 物件.csproj.CoreCompileInputs.cache
+C:\Users\mn223\Desktop\C#\class 、 object 類別 物件\class 、 object 類別 物件\bin\Debug\net8.0\class 、 object 類別 物件.exe
+C:\Users\mn223\Desktop\C#\class 、 object 類別 物件\class 、 object 類別 物件\bin\Debug\net8.0\class 、 object 類別 物件.deps.json
+C:\Users\mn223\Desktop\C#\class 、 object 類別 物件\class 、 object 類別 物件\bin\Debug\net8.0\class 、 object 類別 物件.runtimeconfig.json
+C:\Users\mn223\Desktop\C#\class 、 object 類別 物件\class 、 object 類別 物件\bin\Debug\net8.0\class 、 object 類別 物件.dll
+C:\Users\mn223\Desktop\C#\class 、 object 類別 物件\class 、 object 類別 物件\bin\Debug\net8.0\class 、 object 類別 物件.pdb
+C:\Users\mn223\Desktop\C#\class 、 object 類別 物件\class 、 object 類別 物件\obj\Debug\net8.0\class 、 object 類別 物件.dll
+C:\Users\mn223\Desktop\C#\class 、 object 類別 物件\class 、 object 類別 物件\obj\Debug\net8.0\refint\class 、 object 類別 物件.dll
+C:\Users\mn223\Desktop\C#\class 、 object 類別 物件\class 、 object 類別 物件\obj\Debug\net8.0\class 、 object 類別 物件.pdb
+C:\Users\mn223\Desktop\C#\class 、 object 類別 物件\class 、 object 類別 物件\obj\Debug\net8.0\class 、 object 類別 物件.genruntimeconfig.cache
+C:\Users\mn223\Desktop\C#\class 、 object 類別 物件\class 、 object 類別 物件\obj\Debug\net8.0\ref\class 、 object 類別 物件.dll

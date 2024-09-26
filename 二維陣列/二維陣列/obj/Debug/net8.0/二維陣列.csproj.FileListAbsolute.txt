@@ -1,0 +1,14 @@
+C:\Users\mn223\Desktop\C#\二維陣列\二維陣列\bin\Debug\net8.0\二維陣列.exe
+C:\Users\mn223\Desktop\C#\二維陣列\二維陣列\bin\Debug\net8.0\二維陣列.deps.json
+C:\Users\mn223\Desktop\C#\二維陣列\二維陣列\bin\Debug\net8.0\二維陣列.runtimeconfig.json
+C:\Users\mn223\Desktop\C#\二維陣列\二維陣列\bin\Debug\net8.0\二維陣列.dll
+C:\Users\mn223\Desktop\C#\二維陣列\二維陣列\bin\Debug\net8.0\二維陣列.pdb
+C:\Users\mn223\Desktop\C#\二維陣列\二維陣列\obj\Debug\net8.0\二維陣列.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mn223\Desktop\C#\二維陣列\二維陣列\obj\Debug\net8.0\二維陣列.AssemblyInfoInputs.cache
+C:\Users\mn223\Desktop\C#\二維陣列\二維陣列\obj\Debug\net8.0\二維陣列.AssemblyInfo.cs
+C:\Users\mn223\Desktop\C#\二維陣列\二維陣列\obj\Debug\net8.0\二維陣列.csproj.CoreCompileInputs.cache
+C:\Users\mn223\Desktop\C#\二維陣列\二維陣列\obj\Debug\net8.0\二維陣列.dll
+C:\Users\mn223\Desktop\C#\二維陣列\二維陣列\obj\Debug\net8.0\refint\二維陣列.dll
+C:\Users\mn223\Desktop\C#\二維陣列\二維陣列\obj\Debug\net8.0\二維陣列.pdb
+C:\Users\mn223\Desktop\C#\二維陣列\二維陣列\obj\Debug\net8.0\二維陣列.genruntimeconfig.cache
+C:\Users\mn223\Desktop\C#\二維陣列\二維陣列\obj\Debug\net8.0\ref\二維陣列.dll
