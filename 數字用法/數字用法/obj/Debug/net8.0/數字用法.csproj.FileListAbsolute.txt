@@ -1,0 +1,14 @@
+C:\Users\mn223\Desktop\C#\數字用法\數字用法\obj\Debug\net8.0\數字用法.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mn223\Desktop\C#\數字用法\數字用法\obj\Debug\net8.0\數字用法.AssemblyInfoInputs.cache
+C:\Users\mn223\Desktop\C#\數字用法\數字用法\obj\Debug\net8.0\數字用法.AssemblyInfo.cs
+C:\Users\mn223\Desktop\C#\數字用法\數字用法\obj\Debug\net8.0\數字用法.csproj.CoreCompileInputs.cache
+C:\Users\mn223\Desktop\C#\數字用法\數字用法\bin\Debug\net8.0\數字用法.exe
+C:\Users\mn223\Desktop\C#\數字用法\數字用法\bin\Debug\net8.0\數字用法.deps.json
+C:\Users\mn223\Desktop\C#\數字用法\數字用法\bin\Debug\net8.0\數字用法.runtimeconfig.json
+C:\Users\mn223\Desktop\C#\數字用法\數字用法\bin\Debug\net8.0\數字用法.dll
+C:\Users\mn223\Desktop\C#\數字用法\數字用法\bin\Debug\net8.0\數字用法.pdb
+C:\Users\mn223\Desktop\C#\數字用法\數字用法\obj\Debug\net8.0\數字用法.dll
+C:\Users\mn223\Desktop\C#\數字用法\數字用法\obj\Debug\net8.0\refint\數字用法.dll
+C:\Users\mn223\Desktop\C#\數字用法\數字用法\obj\Debug\net8.0\數字用法.pdb
+C:\Users\mn223\Desktop\C#\數字用法\數字用法\obj\Debug\net8.0\數字用法.genruntimeconfig.cache
+C:\Users\mn223\Desktop\C#\數字用法\數字用法\obj\Debug\net8.0\ref\數字用法.dll

@@ -1,0 +1,14 @@
+C:\Users\mn223\Desktop\C#\取得用戶輸入\取得用戶輸入\bin\Debug\net8.0\取得用戶輸入.exe
+C:\Users\mn223\Desktop\C#\取得用戶輸入\取得用戶輸入\bin\Debug\net8.0\取得用戶輸入.deps.json
+C:\Users\mn223\Desktop\C#\取得用戶輸入\取得用戶輸入\bin\Debug\net8.0\取得用戶輸入.runtimeconfig.json
+C:\Users\mn223\Desktop\C#\取得用戶輸入\取得用戶輸入\bin\Debug\net8.0\取得用戶輸入.dll
+C:\Users\mn223\Desktop\C#\取得用戶輸入\取得用戶輸入\bin\Debug\net8.0\取得用戶輸入.pdb
+C:\Users\mn223\Desktop\C#\取得用戶輸入\取得用戶輸入\obj\Debug\net8.0\取得用戶輸入.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mn223\Desktop\C#\取得用戶輸入\取得用戶輸入\obj\Debug\net8.0\取得用戶輸入.AssemblyInfoInputs.cache
+C:\Users\mn223\Desktop\C#\取得用戶輸入\取得用戶輸入\obj\Debug\net8.0\取得用戶輸入.AssemblyInfo.cs
+C:\Users\mn223\Desktop\C#\取得用戶輸入\取得用戶輸入\obj\Debug\net8.0\取得用戶輸入.csproj.CoreCompileInputs.cache
+C:\Users\mn223\Desktop\C#\取得用戶輸入\取得用戶輸入\obj\Debug\net8.0\取得用戶輸入.dll
+C:\Users\mn223\Desktop\C#\取得用戶輸入\取得用戶輸入\obj\Debug\net8.0\refint\取得用戶輸入.dll
+C:\Users\mn223\Desktop\C#\取得用戶輸入\取得用戶輸入\obj\Debug\net8.0\取得用戶輸入.pdb
+C:\Users\mn223\Desktop\C#\取得用戶輸入\取得用戶輸入\obj\Debug\net8.0\取得用戶輸入.genruntimeconfig.cache
+C:\Users\mn223\Desktop\C#\取得用戶輸入\取得用戶輸入\obj\Debug\net8.0\ref\取得用戶輸入.dll
