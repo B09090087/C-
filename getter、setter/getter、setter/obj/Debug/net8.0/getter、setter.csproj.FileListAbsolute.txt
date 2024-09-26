@@ -1,0 +1,14 @@
+C:\Users\mn223\Desktop\C#\getter、setter\getter、setter\bin\Debug\net8.0\getter、setter.exe
+C:\Users\mn223\Desktop\C#\getter、setter\getter、setter\bin\Debug\net8.0\getter、setter.deps.json
+C:\Users\mn223\Desktop\C#\getter、setter\getter、setter\bin\Debug\net8.0\getter、setter.runtimeconfig.json
+C:\Users\mn223\Desktop\C#\getter、setter\getter、setter\bin\Debug\net8.0\getter、setter.dll
+C:\Users\mn223\Desktop\C#\getter、setter\getter、setter\bin\Debug\net8.0\getter、setter.pdb
+C:\Users\mn223\Desktop\C#\getter、setter\getter、setter\obj\Debug\net8.0\getter、setter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mn223\Desktop\C#\getter、setter\getter、setter\obj\Debug\net8.0\getter、setter.AssemblyInfoInputs.cache
+C:\Users\mn223\Desktop\C#\getter、setter\getter、setter\obj\Debug\net8.0\getter、setter.AssemblyInfo.cs
+C:\Users\mn223\Desktop\C#\getter、setter\getter、setter\obj\Debug\net8.0\getter、setter.csproj.CoreCompileInputs.cache
+C:\Users\mn223\Desktop\C#\getter、setter\getter、setter\obj\Debug\net8.0\getter、setter.dll
+C:\Users\mn223\Desktop\C#\getter、setter\getter、setter\obj\Debug\net8.0\refint\getter、setter.dll
+C:\Users\mn223\Desktop\C#\getter、setter\getter、setter\obj\Debug\net8.0\getter、setter.pdb
+C:\Users\mn223\Desktop\C#\getter、setter\getter、setter\obj\Debug\net8.0\getter、setter.genruntimeconfig.cache
+C:\Users\mn223\Desktop\C#\getter、setter\getter、setter\obj\Debug\net8.0\ref\getter、setter.dll

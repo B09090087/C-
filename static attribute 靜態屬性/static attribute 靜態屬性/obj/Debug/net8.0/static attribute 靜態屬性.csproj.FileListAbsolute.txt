@@ -1,0 +1,14 @@
+C:\Users\mn223\Desktop\C#\static attribute 靜態屬性\static attribute 靜態屬性\bin\Debug\net8.0\static attribute 靜態屬性.exe
+C:\Users\mn223\Desktop\C#\static attribute 靜態屬性\static attribute 靜態屬性\bin\Debug\net8.0\static attribute 靜態屬性.deps.json
+C:\Users\mn223\Desktop\C#\static attribute 靜態屬性\static attribute 靜態屬性\bin\Debug\net8.0\static attribute 靜態屬性.runtimeconfig.json
+C:\Users\mn223\Desktop\C#\static attribute 靜態屬性\static attribute 靜態屬性\bin\Debug\net8.0\static attribute 靜態屬性.dll
+C:\Users\mn223\Desktop\C#\static attribute 靜態屬性\static attribute 靜態屬性\bin\Debug\net8.0\static attribute 靜態屬性.pdb
+C:\Users\mn223\Desktop\C#\static attribute 靜態屬性\static attribute 靜態屬性\obj\Debug\net8.0\static attribute 靜態屬性.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mn223\Desktop\C#\static attribute 靜態屬性\static attribute 靜態屬性\obj\Debug\net8.0\static attribute 靜態屬性.AssemblyInfoInputs.cache
+C:\Users\mn223\Desktop\C#\static attribute 靜態屬性\static attribute 靜態屬性\obj\Debug\net8.0\static attribute 靜態屬性.AssemblyInfo.cs
+C:\Users\mn223\Desktop\C#\static attribute 靜態屬性\static attribute 靜態屬性\obj\Debug\net8.0\static attribute 靜態屬性.csproj.CoreCompileInputs.cache
+C:\Users\mn223\Desktop\C#\static attribute 靜態屬性\static attribute 靜態屬性\obj\Debug\net8.0\static attribute 靜態屬性.dll
+C:\Users\mn223\Desktop\C#\static attribute 靜態屬性\static attribute 靜態屬性\obj\Debug\net8.0\refint\static attribute 靜態屬性.dll
+C:\Users\mn223\Desktop\C#\static attribute 靜態屬性\static attribute 靜態屬性\obj\Debug\net8.0\static attribute 靜態屬性.pdb
+C:\Users\mn223\Desktop\C#\static attribute 靜態屬性\static attribute 靜態屬性\obj\Debug\net8.0\static attribute 靜態屬性.genruntimeconfig.cache
+C:\Users\mn223\Desktop\C#\static attribute 靜態屬性\static attribute 靜態屬性\obj\Debug\net8.0\ref\static attribute 靜態屬性.dll
