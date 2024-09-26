@@ -1,0 +1,14 @@
+C:\Users\mn223\Desktop\C#\string字串用法\string字串用法\bin\Debug\net8.0\string字串用法.exe
+C:\Users\mn223\Desktop\C#\string字串用法\string字串用法\bin\Debug\net8.0\string字串用法.deps.json
+C:\Users\mn223\Desktop\C#\string字串用法\string字串用法\bin\Debug\net8.0\string字串用法.runtimeconfig.json
+C:\Users\mn223\Desktop\C#\string字串用法\string字串用法\bin\Debug\net8.0\string字串用法.dll
+C:\Users\mn223\Desktop\C#\string字串用法\string字串用法\bin\Debug\net8.0\string字串用法.pdb
+C:\Users\mn223\Desktop\C#\string字串用法\string字串用法\obj\Debug\net8.0\string字串用法.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mn223\Desktop\C#\string字串用法\string字串用法\obj\Debug\net8.0\string字串用法.AssemblyInfoInputs.cache
+C:\Users\mn223\Desktop\C#\string字串用法\string字串用法\obj\Debug\net8.0\string字串用法.AssemblyInfo.cs
+C:\Users\mn223\Desktop\C#\string字串用法\string字串用法\obj\Debug\net8.0\string字串用法.csproj.CoreCompileInputs.cache
+C:\Users\mn223\Desktop\C#\string字串用法\string字串用法\obj\Debug\net8.0\string字串用法.dll
+C:\Users\mn223\Desktop\C#\string字串用法\string字串用法\obj\Debug\net8.0\refint\string字串用法.dll
+C:\Users\mn223\Desktop\C#\string字串用法\string字串用法\obj\Debug\net8.0\string字串用法.pdb
+C:\Users\mn223\Desktop\C#\string字串用法\string字串用法\obj\Debug\net8.0\string字串用法.genruntimeconfig.cache
+C:\Users\mn223\Desktop\C#\string字串用法\string字串用法\obj\Debug\net8.0\ref\string字串用法.dll
