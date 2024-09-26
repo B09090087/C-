@@ -1,0 +1,14 @@
+C:\Users\mn223\Desktop\C#\namespace、using\namespace、using\obj\Debug\net8.0\namespace、using.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mn223\Desktop\C#\namespace、using\namespace、using\obj\Debug\net8.0\namespace、using.AssemblyInfoInputs.cache
+C:\Users\mn223\Desktop\C#\namespace、using\namespace、using\obj\Debug\net8.0\namespace、using.AssemblyInfo.cs
+C:\Users\mn223\Desktop\C#\namespace、using\namespace、using\obj\Debug\net8.0\namespace、using.csproj.CoreCompileInputs.cache
+C:\Users\mn223\Desktop\C#\namespace、using\namespace、using\bin\Debug\net8.0\namespace、using.exe
+C:\Users\mn223\Desktop\C#\namespace、using\namespace、using\bin\Debug\net8.0\namespace、using.deps.json
+C:\Users\mn223\Desktop\C#\namespace、using\namespace、using\bin\Debug\net8.0\namespace、using.runtimeconfig.json
+C:\Users\mn223\Desktop\C#\namespace、using\namespace、using\bin\Debug\net8.0\namespace、using.dll
+C:\Users\mn223\Desktop\C#\namespace、using\namespace、using\bin\Debug\net8.0\namespace、using.pdb
+C:\Users\mn223\Desktop\C#\namespace、using\namespace、using\obj\Debug\net8.0\namespace、using.dll
+C:\Users\mn223\Desktop\C#\namespace、using\namespace、using\obj\Debug\net8.0\refint\namespace、using.dll
+C:\Users\mn223\Desktop\C#\namespace、using\namespace、using\obj\Debug\net8.0\namespace、using.pdb
+C:\Users\mn223\Desktop\C#\namespace、using\namespace、using\obj\Debug\net8.0\namespace、using.genruntimeconfig.cache
+C:\Users\mn223\Desktop\C#\namespace、using\namespace、using\obj\Debug\net8.0\ref\namespace、using.dll
