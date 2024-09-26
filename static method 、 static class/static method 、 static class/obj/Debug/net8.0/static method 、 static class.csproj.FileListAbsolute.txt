@@ -1,0 +1,14 @@
+C:\Users\mn223\Desktop\C#\static method 、 static class\static method 、 static class\bin\Debug\net8.0\static method 、 static class.exe
+C:\Users\mn223\Desktop\C#\static method 、 static class\static method 、 static class\bin\Debug\net8.0\static method 、 static class.deps.json
+C:\Users\mn223\Desktop\C#\static method 、 static class\static method 、 static class\bin\Debug\net8.0\static method 、 static class.runtimeconfig.json
+C:\Users\mn223\Desktop\C#\static method 、 static class\static method 、 static class\bin\Debug\net8.0\static method 、 static class.dll
+C:\Users\mn223\Desktop\C#\static method 、 static class\static method 、 static class\bin\Debug\net8.0\static method 、 static class.pdb
+C:\Users\mn223\Desktop\C#\static method 、 static class\static method 、 static class\obj\Debug\net8.0\static method 、 static class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mn223\Desktop\C#\static method 、 static class\static method 、 static class\obj\Debug\net8.0\static method 、 static class.AssemblyInfoInputs.cache
+C:\Users\mn223\Desktop\C#\static method 、 static class\static method 、 static class\obj\Debug\net8.0\static method 、 static class.AssemblyInfo.cs
+C:\Users\mn223\Desktop\C#\static method 、 static class\static method 、 static class\obj\Debug\net8.0\static method 、 static class.csproj.CoreCompileInputs.cache
+C:\Users\mn223\Desktop\C#\static method 、 static class\static method 、 static class\obj\Debug\net8.0\static method 、 static class.dll
+C:\Users\mn223\Desktop\C#\static method 、 static class\static method 、 static class\obj\Debug\net8.0\refint\static method 、 static class.dll
+C:\Users\mn223\Desktop\C#\static method 、 static class\static method 、 static class\obj\Debug\net8.0\static method 、 static class.pdb
+C:\Users\mn223\Desktop\C#\static method 、 static class\static method 、 static class\obj\Debug\net8.0\static method 、 static class.genruntimeconfig.cache
+C:\Users\mn223\Desktop\C#\static method 、 static class\static method 、 static class\obj\Debug\net8.0\ref\static method 、 static class.dll

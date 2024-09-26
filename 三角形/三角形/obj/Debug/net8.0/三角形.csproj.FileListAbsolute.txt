@@ -1,0 +1,14 @@
+C:\Users\mn223\Desktop\C#\三角形\三角形\bin\Debug\net8.0\三角形.exe
+C:\Users\mn223\Desktop\C#\三角形\三角形\bin\Debug\net8.0\三角形.deps.json
+C:\Users\mn223\Desktop\C#\三角形\三角形\bin\Debug\net8.0\三角形.runtimeconfig.json
+C:\Users\mn223\Desktop\C#\三角形\三角形\bin\Debug\net8.0\三角形.dll
+C:\Users\mn223\Desktop\C#\三角形\三角形\bin\Debug\net8.0\三角形.pdb
+C:\Users\mn223\Desktop\C#\三角形\三角形\obj\Debug\net8.0\三角形.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mn223\Desktop\C#\三角形\三角形\obj\Debug\net8.0\三角形.AssemblyInfoInputs.cache
+C:\Users\mn223\Desktop\C#\三角形\三角形\obj\Debug\net8.0\三角形.AssemblyInfo.cs
+C:\Users\mn223\Desktop\C#\三角形\三角形\obj\Debug\net8.0\三角形.csproj.CoreCompileInputs.cache
+C:\Users\mn223\Desktop\C#\三角形\三角形\obj\Debug\net8.0\三角形.dll
+C:\Users\mn223\Desktop\C#\三角形\三角形\obj\Debug\net8.0\refint\三角形.dll
+C:\Users\mn223\Desktop\C#\三角形\三角形\obj\Debug\net8.0\三角形.pdb
+C:\Users\mn223\Desktop\C#\三角形\三角形\obj\Debug\net8.0\三角形.genruntimeconfig.cache
+C:\Users\mn223\Desktop\C#\三角形\三角形\obj\Debug\net8.0\ref\三角形.dll
